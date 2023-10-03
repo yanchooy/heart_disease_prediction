@@ -3,7 +3,7 @@
 Assuming that we are working for an R&D company that focuses on providing healthcare solutions. The company has collected anonymized data from multiple hospitals on several patients. The [dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) with 918 records and 15 features include relevant information for each patient, such as their personal information and some medical data, including whether or not they have had heart disease before.
 
 # Goal
-To accurately predict the likelihood of a new patient having heart disease in the future.
+To find the best performing classification model to accurately predict the likelihood of a new patient having heart disease in the future 
 
 # Results
 - We have maintained 93% (854 out of 918 rows) of our data after removing outliers using modified Z-score and imputating incorrect values.
